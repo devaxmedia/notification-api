@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Asap", "sans-serif";
+}
+
+body{
+    height: 100vh;
+    background-color: #C4DDFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+text-align: center;
+}
+
+.container h1{
+    font-size: 5rem;
+    color: #001D6E;
+}
